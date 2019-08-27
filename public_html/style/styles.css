@@ -1,0 +1,36 @@
+
+.HomeTitle{
+    text-align: center;
+    padding: 20px 0;
+}
+
+
+
+.container{
+    position: relative;
+    top: 200px;
+    width: 80%;
+    margin: auto;
+}
+.HomeContent{
+    height: 230px;
+    display: inline-flex;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.38);
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+
+
+.PersonCard{
+
+    width: 100%;
+    text-align: center;
+
+    margin: 0 20px;
+    color: white;
+
+
+}
+
